@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"exception": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
